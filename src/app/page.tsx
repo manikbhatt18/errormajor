@@ -8,6 +8,8 @@ import Customers from "./components/Customers";
 import Try from "./components/Try";
 import Growbusiness from "./components/Growbusiness";
 import BetterJobs from "./components/Betterjobs";
+import Questions from "./components/Questions";
+import Footer from "./components/Footer";
 
 export default function Home() {
   return (
@@ -21,6 +23,8 @@ export default function Home() {
       <Try />
       <Growbusiness />
       <BetterJobs />
+      <Questions />
+      <Footer />
     </>
   );
 }
