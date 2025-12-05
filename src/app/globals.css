@@ -27,7 +27,9 @@
   --color-brand-hover: var(--brand-hover);
 
   /* You can replace this with a Google Font via next/font later */
-  --font-sans: "Open Sans", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  /* --font-sans: "Open Sans", system-ui, -apple-system, BlinkMacSystemFont, sans-serif; */
+  --font-sans: "Poppins", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+
 }
 
 /* ✅ Global element styles */
